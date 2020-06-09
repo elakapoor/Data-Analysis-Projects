@@ -1,0 +1,1 @@
+The file contain the unformatted weather data. The data was modified in readable form and then the analysis was done.
